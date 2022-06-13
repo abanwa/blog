@@ -1,0 +1,2 @@
+# blog
+Zuri Python Blog
